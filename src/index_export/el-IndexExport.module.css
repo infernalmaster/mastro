@@ -1,0 +1,9 @@
+.cls1 { /*!*/ }
+.cls2 {
+composes: cls1;
+
+width: 10px;
+height: 10px;
+background: green;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9pbmRleF9leHBvcnQvZWwtSW5kZXhFeHBvcnQubW9kdWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxRQUFRLElBQUksRUFBRTtBQUNkO0FBQ0EsY0FBYzs7QUFFZCxXQUFXO0FBQ1gsWUFBWTtBQUNaLGlCQUFpQjtBQUNqQiIsImZpbGUiOiJzcmMvaW5kZXhfZXhwb3J0L2VsLUluZGV4RXhwb3J0Lm1vZHVsZS5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuY2xzMSB7IC8qISovIH1cbi5jbHMyIHtcbmNvbXBvc2VzOiBjbHMxO1xuXG53aWR0aDogMTBweDtcbmhlaWdodDogMTBweDtcbmJhY2tncm91bmQ6IGdyZWVuO1xufSJdfQ== */
